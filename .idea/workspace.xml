@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e58f820-a481-49c0-969b-8fd6f90acd75" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/block_swap.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check_consecutive.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check_pair_with_given_diff.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check_pair_with_given_sum.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/closest_sum.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/create_product_array.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/duplicate_in_array.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rec_block_swap.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="vector-testing.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +30,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="block_swap.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/block_swap.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="53" column="3" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rec_block_swap.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rec_block_swap.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="687">
+              <caret line="68" column="2" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="check_consecutive.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/check_consecutive.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="check_pair_with_given_diff.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/check_pair_with_given_diff.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="check_pair_with_given_sum.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/check_pair_with_given_sum.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="closest_sum.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/closest_sum.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create_product_array.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/create_product_array.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="duplicate_in_array.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/duplicate_in_array.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -40,6 +129,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test.rb" />
+        <option value="$PROJECT_DIR$/block_swap.rb" />
+        <option value="$PROJECT_DIR$/rec_block_swap.rb" />
+        <option value="$PROJECT_DIR$/check_consecutive.rb" />
+        <option value="$PROJECT_DIR$/check_pair_with_given_diff.rb" />
+        <option value="$PROJECT_DIR$/check_pair_with_given_sum.rb" />
+        <option value="$PROJECT_DIR$/closest_sum.rb" />
+        <option value="$PROJECT_DIR$/create_product_array.rb" />
+        <option value="$PROJECT_DIR$/duplicate_in_array.rb" />
       </list>
     </option>
   </component>
@@ -177,6 +274,25 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="" />
@@ -225,12 +341,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534439318402</updated>
-      <workItem from="1534439319547" duration="40000" />
+      <workItem from="1534439319547" duration="4662000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40000" />
+    <option name="totallyTimeSpent" value="4662000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="26" y="57" width="1400" height="833" extended-state="0" />
@@ -275,6 +391,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block_swap.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="53" column="3" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rec_block_swap.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="68" column="2" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check_consecutive.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check_pair_with_given_diff.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check_pair_with_given_sum.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/closest_sum.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_product_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/duplicate_in_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
         </state>
       </provider>
