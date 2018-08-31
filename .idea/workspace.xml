@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e58f820-a481-49c0-969b-8fd6f90acd75" name="Default" comment="" />
+    <list default="true" id="5e58f820-a481-49c0-969b-8fd6f90acd75" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/duplicate_in_array.rb" afterPath="$PROJECT_DIR$/duplicate_in_array.rb" />
+    </list>
     <ignored path="vector-testing.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -93,8 +95,8 @@
       <file leaf-file-name="duplicate_in_array.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/duplicate_in_array.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+            <state relative-caret-position="255">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -136,7 +138,6 @@
         <option value="$PROJECT_DIR$/check_pair_with_given_sum.rb" />
         <option value="$PROJECT_DIR$/closest_sum.rb" />
         <option value="$PROJECT_DIR$/create_product_array.rb" />
-        <option value="$PROJECT_DIR$/duplicate_in_array.rb" />
         <option value="$PROJECT_DIR$/equilibrium_index_of_array.rb" />
         <option value="$PROJECT_DIR$/find_missing_number.rb" />
         <option value="$PROJECT_DIR$/find_pythagorean_triplets.rb" />
@@ -147,6 +148,7 @@
         <option value="$PROJECT_DIR$/depth_first_search.rb" />
         <option value="$PROJECT_DIR$/largest_shape.rb" />
         <option value="$PROJECT_DIR$/array_dec.rb" />
+        <option value="$PROJECT_DIR$/duplicate_in_array.rb" />
       </list>
     </option>
   </component>
@@ -354,12 +356,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534439318402</updated>
-      <workItem from="1534439319547" duration="30245000" />
+      <workItem from="1534439319547" duration="30348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30245000" />
+    <option name="totallyTimeSpent" value="30348000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="55" width="1400" height="833" extended-state="0" />
@@ -546,8 +548,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/duplicate_in_array.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        <state relative-caret-position="255">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding />
         </state>
       </provider>

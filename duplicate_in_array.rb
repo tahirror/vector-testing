@@ -14,4 +14,5 @@ def print_duplicates(a)
   return
 end
 
-p print_duplicates([1, 4, 6, 4, 3, 6, 1])	# => Duplicate elements are: 4 6 1
+# Out => Duplicate elements are: 4 6 1
+p print_duplicates([1, 4, 6, 4, 3, 6, 1])
