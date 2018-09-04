@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e58f820-a481-49c0-969b-8fd6f90acd75" name="Default" comment="" />
+    <list default="true" id="5e58f820-a481-49c0-969b-8fd6f90acd75" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/duplicate_in_array.rb" afterPath="$PROJECT_DIR$/duplicate_in_array.rb" />
+    </list>
     <ignored path="vector-testing.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -94,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/duplicate_in_array.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -361,16 +363,16 @@
       <option name="presentableId" value="Default" />
       <updated>1534439318402</updated>
       <workItem from="1534439319547" duration="30348000" />
-      <workItem from="1536023504952" duration="133000" />
+      <workItem from="1536023504952" duration="537000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30481000" />
+    <option name="totallyTimeSpent" value="30885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="55" width="1400" height="833" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -625,7 +627,7 @@
     <entry file="file://$PROJECT_DIR$/duplicate_in_array.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
           <folding />
         </state>
       </provider>
