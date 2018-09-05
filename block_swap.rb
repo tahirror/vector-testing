@@ -18,39 +18,38 @@
 # Iterative approach
 
 def block_swap(a,d)
-  n=a.length
-  if n>0
+  n = a.length
+  if n > 0
 
-    if d>=n
-      d%=n
+    if d >= n
+      d %= n
     end
 
-    if d==0
+    if d == 0
       return a
     end
 
-    if d==n-d
-      swap(a,0,d,d)
+    if d == n - d
+      swap(a, 0, d, d)
     end
 
-    i= d
-    j= n-d
+    i = d
+    j = n - d
 
-    while(i!=j)
-      if i<j
-        swap(a,d-i,d+j-i,i)
-        j-=i
+    while(i != j)
+      if i < j
+        swap(a, d-i, d+j-i, i)
+        j -= i
       else
-        swap(a,d-i,d,j)
-        i-=j
+        swap(a, d-i, d, j)
+        i -= j
       end
     end
 
-    swap(a,d-i,d,i)
+    swap(a, d-i, d, i)
   end
 
   return a
-
 end
 
 
