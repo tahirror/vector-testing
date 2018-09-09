@@ -17,7 +17,7 @@
 
 # Iterative approach
 
-def block_swap(a,d)
+def block_swap(a, d)
   n = a.length
   if n > 0
 
@@ -49,7 +49,7 @@ def block_swap(a,d)
     swap(a, d-i, d, i)
   end
 
-  return a
+  return a 
 end
 
 
