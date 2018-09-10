@@ -49,7 +49,7 @@ def block_swap(a, d)
     swap(a, d-i, d, i)
   end
 
-  return a 
+  return a
 end
 
 

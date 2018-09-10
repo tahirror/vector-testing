@@ -3,14 +3,14 @@
 #Approach 1: Using an auxiliary array to keep track of visited elements
 #Time-complexity:O(n),Auxiliary-space:O(n)
 def check_consecutive(a)
-  len=a.length
-  min=a.min
-  max=a.max
-  if len==(max-min+1)
-    visited=Array.new(len,0)
+  len = a.length
+  min = a.min
+  max = a.max
+  if len == (max-min+1)
+    visited = Array.new(len,0)
     for i in 0...len
-      return -1 unless visited[a[i]-min]==0
-      visited[a[i]-min]=1
+      return -1 unless visited[a[i]-min] == 0
+      visited[a[i]-min] = 1
     end
     return 1
   end
