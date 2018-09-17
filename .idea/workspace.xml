@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e58f820-a481-49c0-969b-8fd6f90acd75" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/largest_shape.rb" afterPath="$PROJECT_DIR$/largest_shape.rb" />
-    </list>
+    <list default="true" id="5e58f820-a481-49c0-969b-8fd6f90acd75" name="Default" comment="" />
     <ignored path="vector-testing.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -365,12 +363,12 @@
       <updated>1534439318402</updated>
       <workItem from="1534439319547" duration="30348000" />
       <workItem from="1536023504952" duration="537000" />
-      <workItem from="1536165157494" duration="4730000" />
+      <workItem from="1536165157494" duration="4847000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35615000" />
+    <option name="totallyTimeSpent" value="35732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="23" width="1400" height="833" extended-state="0" />
