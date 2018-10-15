@@ -9,3 +9,19 @@ end
 str = '[{()}][stre][{()}]'
 
 puts [['(',')'], ['[',']'], ['{','}']].map{ |ps| is_balanced(*ps, str)}.all?
+
+def is_balanced?(str)
+  cnt = 0
+  str.chars do |c|
+    if ['[','{','('].include? c
+      cnt += 1
+    elsif [']','}',')'].include? c
+      cnt -= 1
+    end
+  end
+  cnt == 0
+end
+
+str = '[{()}][stre[{()}]'
+
+p is_balanced?(str)
