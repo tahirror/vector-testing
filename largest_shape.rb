@@ -30,8 +30,7 @@ matrix.each_with_index do |row, i|
   end
 end
 
-puts "Shape_Count: #{count}"
-
+puts "Lagetst Shape: #{count}"
 
 puts "Matrix_Rows_Count: #{matrix.count}"
 puts "Matrix_Cols_Count: #{matrix.first.count}"

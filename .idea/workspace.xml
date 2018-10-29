@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e58f820-a481-49c0-969b-8fd6f90acd75" name="Default" comment="" />
+    <list default="true" id="5e58f820-a481-49c0-969b-8fd6f90acd75" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/largest_shape.rb" afterPath="$PROJECT_DIR$/largest_shape.rb" />
+    </list>
     <ignored path="vector-testing.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -64,8 +66,8 @@
       <file leaf-file-name="largest_shape.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/largest_shape.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="480">
+              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -147,10 +149,10 @@
         <option value="$PROJECT_DIR$/duplicate_in_array.rb" />
         <option value="$PROJECT_DIR$/block_swap.rb" />
         <option value="$PROJECT_DIR$/check_consecutive.rb" />
-        <option value="$PROJECT_DIR$/largest_shape.rb" />
         <option value="$PROJECT_DIR$/words_to_numbers.rb" />
         <option value="$PROJECT_DIR$/ship_count.rb" />
         <option value="$PROJECT_DIR$/balanced_str.rb" />
+        <option value="$PROJECT_DIR$/largest_shape.rb" />
       </list>
     </option>
   </component>
@@ -367,12 +369,12 @@
       <workItem from="1534439319547" duration="30348000" />
       <workItem from="1536023504952" duration="537000" />
       <workItem from="1536165157494" duration="13948000" />
-      <workItem from="1539637823449" duration="3474000" />
+      <workItem from="1539637823449" duration="3492000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48307000" />
+    <option name="totallyTimeSpent" value="48325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="23" width="1400" height="833" extended-state="0" />
@@ -800,8 +802,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/largest_shape.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="480">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
           <folding />
         </state>
       </provider>
