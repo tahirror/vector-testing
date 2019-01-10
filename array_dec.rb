@@ -10,6 +10,8 @@ arr.each do |row|
   row.sort!
 end
 
+puts 'i am here'
+
 puts arr
 
 puts arra
